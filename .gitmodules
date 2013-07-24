@@ -4,8 +4,8 @@
 [submodule "bundle/go"]
 	path = bundle/go
 	url = https://github.com/jnwhiteh/vim-golang.git
-[submodule "bundle/markdown-preview"]
-	path = bundle/markdown-preview
+[submodule "bundle/vim-markdown-preview"]
+	path = bundle/vim-markdown-preview
 	url = https://github.com/nelstrom/vim-markdown-preview.git
 [submodule "bundle/nerdtree"]
 	path = bundle/nerdtree
