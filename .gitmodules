@@ -1,0 +1,15 @@
+[submodule "vim-golang"]
+	path = vim-golang
+	url = https://github.com/jnwhiteh/vim-golang.git
+[submodule "bundle/go"]
+	path = bundle/go
+	url = https://github.com/jnwhiteh/vim-golang.git
+[submodule "bundle/markdown-preview"]
+	path = bundle/markdown-preview
+	url = https://github.com/nelstrom/vim-markdown-preview.git
+[submodule "bundle/nerdtree"]
+	path = bundle/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "bundle/ruby"]
+	path = bundle/ruby
+	url = https://github.com/vim-ruby/vim-ruby.git
