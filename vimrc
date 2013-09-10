@@ -64,6 +64,10 @@ if has('autocmd')
     autocmd Filetype php setlocal expandtab
     autocmd Filetype phtml setlocal list
     autocmd Filetype phtml setlocal expandtab
+	autocmd Filetype ruby setlocal expandtab
+	autocmd Filetype ruby setlocal ts=2
+	autocmd Filetype ruby setlocal softtabstop=2
+	autocmd Filetype ruby setlocal shiftwidth=2
 
 	augroup markdown
 		au!
