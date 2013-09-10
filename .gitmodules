@@ -13,3 +13,6 @@
 [submodule "bundle/ruby"]
 	path = bundle/ruby
 	url = https://github.com/vim-ruby/vim-ruby.git
+[submodule "bundle/vim-flavored-markdown"]
+	path = bundle/vim-flavored-markdown
+	url = https://github.com/jtratner/vim-flavored-markdown.git

@@ -65,6 +65,11 @@ if has('autocmd')
     autocmd Filetype phtml setlocal list
     autocmd Filetype phtml setlocal expandtab
 
+	augroup markdown
+		au!
+		au BufNewFile, BufRead *.md, *.markdown setlocal filetype=ghmarkdown
+	augroup END
+
 endif
 
 let g:ConqueTerm_InsertOnEnter = 1
